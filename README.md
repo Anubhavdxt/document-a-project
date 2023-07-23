@@ -2,4 +2,4 @@
 
 Project documenting guide for newbie developers.
 
-[Visit here](anubhavdxt.github.io/document-a-project/)
+[Visit here](https://anubhavdxt.github.io/document-a-project/)
